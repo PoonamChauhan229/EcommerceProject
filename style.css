@@ -88,3 +88,15 @@
 .marginContainer{
     margin:1%;
 }
+
+.subFooterone > h6{
+    font-size: 16px;
+    color: #878787;
+}
+body{
+    background-color: #f1f3f6;
+}
+.subFooterone > p{
+    color: #878787;
+    font-size: 13px;
+}
