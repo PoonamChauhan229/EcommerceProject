@@ -1,12 +1,14 @@
-.flipkartIcon{
-    height:20px;
+.flipkartIcon {
+    height: 20px;
     /* background-color: black; */
     width: 100px;
 }
-.flipkartplus{
-    height:15px;
+
+.flipkartplus {
+    height: 15px;
 }
-.brandImage{
+
+.brandImage {
     width: 110px;
     display: inline-block;
     padding: 0;
@@ -14,89 +16,108 @@
     line-height: 0;
     font-style: italic;
 }
-.brandhyperlink1,.brandhyperlink2{
+
+.brandhyperlink1,
+.brandhyperlink2 {
     float: left;
     /* background-color: aquamarine; */
     padding: 0;
     margin: 0;
     line-height: 0;
 }
-.explore{
-    color: white;    
-    margin-left:2px;
-    
+
+.explore {
+    color: white;
+    margin-left: 2px;
+
 }
-.searchBar{
+
+.searchBar {
     width: 50%;
 }
-.navbarContainer{
+
+.navbarContainer {
     padding-left: 15%;
 }
+
 /* second line navbar */
-.navbarsubcontainer{
+.navbarsubcontainer {
     width: 100%;
     /* border: 1px solid red; */
-    
+
 }
-.colimage{
+
+.colimage {
     /* background-color: yellow; */
     /* margin: 2% 0% 2% 1% */
     border: 1px solid red;
     margin-left: 2%;
     margin-right: 0.6%;
     text-align: center;
-    margin-top:1%;
+    margin-top: 1%;
     padding: 0;
-    margin-bottom:1%;
-    
-  }
-  .colimage >p{
-      font-size: 12px;
-      font-weight: bold;
-      padding: 0;      
-  }
-.imagemidNavbar{
-    width: 90%;  
+    margin-bottom: 1%;
+
 }
-.rowborder{
+
+.colimage>p {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.imagemidNavbar {
+    width: 90%;
+}
+
+.rowborder {
     border-bottom: 1px solid red;
 }
-.colimage >p:hover,.colimage:hover{
-    color:rgb(0, 153, 255)          
+
+.colimage>p:hover,
+.colimage:hover {
+    color: rgb(0, 153, 255)
 }
-.button-prev{
+
+.button-prev {
     padding-right: 200px;
 }
 
-.button-next{
+.button-next {
     padding-left: 200px;
-       
-}
-.carousel_icon{
-    background-color: yellow;
-    color:black;
-    /* padding-top: 100px; */
-    padding:100px 28px 10px 20px;
-    margin-left:25px;
-}
-.carousel_icon_next{    
-    margin-right: 50px;
-}
-.carouselimage{
-    height: 370px;
-}
-.marginContainer{
-    margin:1%;
+
 }
 
-.subFooterone > h6{
+.carousel_icon_prev {
+    margin-left: 35px;
+    background-color: rgb(153, 141, 141) !important;
+    padding: 100px 22px 10px 14px;
+}
+
+.carousel_icon_next {
+    margin-right: 35px;
+    background-color: rgb(153, 141, 141) !important;
+    padding: 100px 22px 10px 14px;
+}
+
+.carouselimage {
+    height: 370px;
+}
+
+.marginContainer {
+    margin: 1%;
+}
+
+.subFooterone>h6 {
     font-size: 16px;
     color: #878787;
 }
-body{
+
+body {
     background-color: #f1f3f6;
 }
-.subFooterone > p{
+
+.subFooterone>p {
     color: #878787;
     font-size: 13px;
 }
